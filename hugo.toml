@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'http://nimilgp.com/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Welcome to my little corner of the internet'
 theme = 'ananke'
